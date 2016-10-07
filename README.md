@@ -24,6 +24,7 @@ The machine requirements for Linux PTP implementation
 * A supported Ethernet MAC device    
 * A supported PHY device paired with a MAC that allows time stamping in the PHY
 
-## [No Hardware? Try Emulating the NIC (Slide 52)](http://events.linuxfoundation.jp/sites/events/files/slides/lcjp14_ichikawa_0.pdf)
-## [The Ubuntu Forum Guide](https://ubuntuforums.org/showthread.php?t=2327884)
-* Credits to []
+* [No Hardware? Try Emulating the NIC (Slide 52)](http://events.linuxfoundation.jp/sites/events/files/slides/lcjp14_ichikawa_0.pdf)
+* [The Ubuntu Forum Guide](https://ubuntuforums.org/showthread.php?t=2327884)
+* [Useful Guide](http://www.elinux.org/images/f/f9/Introduction_to_IEEE_1588_Precision_Time_Protocol_%28PTP%29_Using_Embedded_Linux_Systems.pdf)
+
