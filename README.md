@@ -28,3 +28,4 @@ The machine requirements for Linux PTP implementation
 * [The Ubuntu Forum Guide](https://ubuntuforums.org/showthread.php?t=2327884)
 * [Useful Guide](http://www.elinux.org/images/f/f9/Introduction_to_IEEE_1588_Precision_Time_Protocol_%28PTP%29_Using_Embedded_Linux_Systems.pdf)
 
+* [Configuring Apache Virtual Hosts](https://serversforhackers.com/configuring-apache-virtual-hosts)
