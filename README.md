@@ -3,6 +3,7 @@ General documentation and source about PTP
 
 ## Ubuntu_PTP_Config
 ### IEEE1588 Linux PTP
+![Penguin Time](/Tux.png?raw=true "Tux")
 
 #### What is PTP
 Linux PTP is a software implementation of PrecisionTime Protocol (PTP) that is in accordance with the IEEE 1588standard.  Linux PTP makes use of the Linux kernel, this allowed usto take advantage of the flexibility that is inherent to LinuxApplication Programming Interfaces (API).  Another very practicalreason for our choice was cost.  Linux PTP is free and readilyavailable for download. Some useful features of Linux PTP are as follows.
@@ -16,7 +17,7 @@ Linux PTP is a software implementation of PrecisionTime Protocol (PTP) that is i
 
 Generally, it is best to avoid building software from source to be installed. For the sake of understanding building from source is not a bad choice. That is the reason i decided to follow these steps. I found some useful sources which will be added to this tutorial.
 
-![Penguin Time](/Tux.svg?raw=true "Tux")
+
 
 ##[Introduction to PTP from redhat](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Deployment_Guide/ch-Configuring_PTP_Using_ptp4l.html)
 
