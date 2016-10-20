@@ -1,7 +1,7 @@
 # Linux PTP Config
 General documentation and source about PTP
 
-## Ubuntu_PTP_Config
+## Ubuntu PTP Config
 ### IEEE1588 Linux PTP
 ![Penguin Time](/Tux.png?raw=true "Tux")
 
