@@ -33,4 +33,4 @@ The machine requirements for Linux PTP implementation
 
 * [Configuring Apache Virtual Hosts](https://serversforhackers.com/configuring-apache-virtual-hosts)
 
-*[Cisco Configuration and Tips](http://beginners-network.com/engineer_job_change.html)
+* [Cisco Configuration and Tips](http://beginners-network.com/engineer_job_change.html)
