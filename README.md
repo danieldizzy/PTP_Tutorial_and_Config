@@ -1,4 +1,4 @@
-# Linux_PTP_Config
+# Linux PTP Config
 General documentation and source about PTP
 
 ## Ubuntu_PTP_Config
