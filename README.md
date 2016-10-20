@@ -16,6 +16,8 @@ Linux PTP is a software implementation of PrecisionTime Protocol (PTP) that is i
 
 Generally, it is best to avoid building software from source to be installed. For the sake of understanding building from source is not a bad choice. That is the reason i decided to follow these steps. I found some useful sources which will be added to this tutorial.
 
+![Penguin Time](/Tux.svg?raw=true "Tux")
+
 ##[Introduction to PTP from redhat](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Deployment_Guide/ch-Configuring_PTP_Using_ptp4l.html)
 
 The machine requirements for Linux PTP implementation     
