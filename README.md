@@ -32,5 +32,7 @@ The machine requirements for Linux PTP implementation
 * [Useful Guide](http://www.elinux.org/images/f/f9/Introduction_to_IEEE_1588_Precision_Time_Protocol_%28PTP%29_Using_Embedded_Linux_Systems.pdf)
 
 * [Configuring Apache Virtual Hosts](https://serversforhackers.com/configuring-apache-virtual-hosts)
-
+##Some Cisco Configurations
 * [Cisco Configuration and Tips (In Japanese)](http://beginners-network.com/engineer_job_change.html)
+* [Configuring Trunk VLANs between Cisco Switches](http://www.networkstraining.com/how-to-configure-vlans-on-a-cisco-switch/)
+
