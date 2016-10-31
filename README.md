@@ -40,4 +40,6 @@ The machine requirements for Linux PTP implementation
 * [Using an NFC-equipped mobile phone as
 a token in physical access contro](essay.utwente.nl/65419/1/thesis_nfc_martijn_bolhuis_final.pdf)
 * [Context Aware Healthcare System](http://www.ijimt.org/papers/432-D0142.pdf)
+* [Context Awareness in healthcare](http://www3.nd.edu/~cpoellab/teaching/cse40816/papers/TD05.pdf)
+
 
