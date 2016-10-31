@@ -37,6 +37,6 @@ The machine requirements for Linux PTP implementation
 * [Configuring Trunk VLANs between Cisco Switches](http://www.networkstraining.com/how-to-configure-vlans-on-a-cisco-switch/)
 
 ## To read
-*[Using an NFC-equipped mobile phone as
+* [Using an NFC-equipped mobile phone as
 a token in physical access contro](essay.utwente.nl/65419/1/thesis_nfc_martijn_bolhuis_final.pdf)
 
