@@ -46,7 +46,7 @@ a token in physical access contro](essay.utwente.nl/65419/1/thesis_nfc_martijn_b
   * Which some also depend on time synchonization for services. like monitoring patients health status at timely intervals.
   * Using it as secure alarm systems to raise alarms based on some change in context.
   * The can be cheaper as compared to managing NTP because they are handled on layer Network Layer whislt the NTP operates on the Application layer. From a security stand point this may be necessary to investigate.
-  * Steps to evaluate the use case
+  * **Steps to evaluate the use case :**
       * Obtain beagle bones to simulate the PTP protocol and the NTP protocol.
       * Do a performance evaluation from the PTP protocol and compare the results based on the data collected 
       * Bulid an attack scenario of the NTP server being hacked and time changed and that of the PTP time not being changed on a system 
