@@ -53,4 +53,6 @@ a token in physical access contro](essay.utwente.nl/65419/1/thesis_nfc_martijn_b
       * Since PTP is mainly applied in connected bridges it will be best if you consider a scenario with multiple networks in a hospital syste. 
       * perform your discussions and data visualizations for each test and conclude the paper.
 
-
+* **Some Referece Sources**:
+* [Source about TSN ](https://www.odva.org/Portals/0/Library/Conference/2015_ODVA_Conference_Ditzel-Didier_TSN.pdf)
+* [Source about PTP and TSN](https://www.eecis.udel.edu/~mills/ptp.html)
