@@ -41,5 +41,16 @@ The machine requirements for Linux PTP implementation
 a token in physical access contro](essay.utwente.nl/65419/1/thesis_nfc_martijn_bolhuis_final.pdf)
 * [Context Aware Healthcare System](http://www.ijimt.org/papers/432-D0142.pdf)
 * [Context Awareness in healthcare](http://www3.nd.edu/~cpoellab/teaching/cse40816/papers/TD05.pdf)
+* Consider a research topic in using PTP for healthcare based context ware systems, In current context aware systems a key aspect user to determine the context is the date and time. However, Current systems use NTP services for providing the context aware systems. which is succeptable to security attacks just like any other computer node on the network. So we propose the use of Hard ware based time synchronization for context aware systems where instead of depending on NTP we depend emply the use of hardware time stamping in based on PTP protocol. 
+  * Modern healthcare networks will be performing remote services and some of these systems are sychronized together. 
+  * Which some also depend on time synchonization for services. like monitoring patients health status at timely intervals.
+  * Using it as secure alarm systems to raise alarms based on some change in context.
+  * The can be cheaper as compared to managing NTP because they are handled on layer Network Layer whislt the NTP operates on the Application layer. From a security stand point this may be necessary to investigate.
+  * Steps to evaluate the use case
+      * Obtain beagle bones to simulate the PTP protocol and the NTP protocol.
+      * Do a performance evaluation from the PTP protocol and compare the results based on the data collected 
+      * Bulid an attack scenario of the NTP server being hacked and time changed and that of the PTP time not being changed on a system 
+      * Since PTP is mainly applied in connected bridges it will be best if you consider a scenario with multiple networks in a hospital syste. 
+      * perform your discussions and data visualizations for each test and conclude the paper.
 
 
