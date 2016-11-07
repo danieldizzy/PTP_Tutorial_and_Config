@@ -1,4 +1,13 @@
-# Linux PTP Config
+
+## First What is TSN 
+This standard is one of a number of IEEE 802.1 and other standards suitable for Time-Sensitive Networking
+(TSN) that together have the overall goal of providing extremely low packet loss rates and finite, low, and
+stable end-to-end latencies. TSN supports unicast and multicast Streams of packets that implement a wide
+range of demanding real-time applications including audio/video studios, industrial processes, and the
+control of machines and vehicles. The TSN goals are not achieved at the expense of hampering the ability of
+the network to carry traffic for non-time-critical applications.
+
+## Linux PTP Config
 General documentation and source about PTP
 
 ## Ubuntu PTP Config
