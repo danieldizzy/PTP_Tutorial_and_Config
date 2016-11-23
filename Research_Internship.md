@@ -20,3 +20,7 @@ PUB/SUB Mech this should control authentication and authorization and privacy ma
 EHR/OTHER SERVICES/E-GOV and NHIS
 -------
 Other SERVICES
+
+
+[PortLand: A Scalable Fault-Tolerant Layer 2
+Data Center Network Fabric](http://cseweb.ucsd.edu/~vahdat/papers/portland-sigcomm09.pdf)
