@@ -65,6 +65,7 @@ a token in physical access contro](essay.utwente.nl/65419/1/thesis_nfc_martijn_b
 * **Some Referece Sources**:
 * [Source about TSN ](https://www.odva.org/Portals/0/Library/Conference/2015_ODVA_Conference_Ditzel-Didier_TSN.pdf)
 * [Source about PTP and TSN](https://www.eecis.udel.edu/~mills/ptp.html)
-
+## OPC-UA Pub/Sub
+[Pub-Sub Security](http://www.opcfoundation.org/UA/Part2/)
 * [Introduction to OPC-UA](http://home.hit.no/~hansha/documents/control/opc/OPC%20Overview.pdf)
 * [Babbling Idiots Problem](http://www.ieee802.org/1/files/public/docs2013/new-tsn-jochim-ingress-policing-1113-v1.pdf)
