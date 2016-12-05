@@ -71,3 +71,6 @@ a token in physical access contro](essay.utwente.nl/65419/1/thesis_nfc_martijn_b
 * [Pub-Sub Security](http://www.opcfoundation.org/UA/Part2/)
 * [Introduction to OPC-UA](http://home.hit.no/~hansha/documents/control/opc/OPC%20Overview.pdf)
 * [Babbling Idiots Problem](http://www.ieee802.org/1/files/public/docs2013/new-tsn-jochim-ingress-policing-1113-v1.pdf)
+
+## Presentation Guide
+* [Oral Presentation Structure](http://www.nature.com/scitable/topicpage/oral-presentation-structure-13900387)
